@@ -1,0 +1,34 @@
+{
+  "custom": [
+    {
+      "CustomViewType": "Header",
+      "Properties":{
+        "Text": "'Custom view örnek'"
+      }
+    },
+    {
+      "CustomViewType": "TextInput",
+      "Properties":{
+        "Header": "'Text Input'"
+      }
+    },
+    {
+      "CustomViewType": "TextInput",
+      "Properties":{
+        "Header": "'Text Input'"
+      }
+    },
+    {
+      "CustomViewType": "Text",
+      "Properties":{
+        "Header": "'Text'"
+      }
+    },
+    {
+      "CustomViewType": "Button",
+      "Properties":{
+        "Header": "'Button'"
+      }
+    }
+  ]
+}
